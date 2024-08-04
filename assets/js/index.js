@@ -183,7 +183,7 @@ function showAlert(msg){
         // language resources 
         glossary:{
             // dialogs default title
-            title: 'Claro Honduras',
+            title: 'T1201 Programacion Web I',
             // ok button text
             ok: 'OK',
             // cancel button text
